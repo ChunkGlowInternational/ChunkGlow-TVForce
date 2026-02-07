@@ -104,6 +104,18 @@ No walls. No gates. Just ideas flowing freely.
 If you build something cool with TVForce — that’s a win.
 
 ---
+## Credits
 
-**ChunkGlow TVForce**
-Made with vision. Released with freedom.
+This project uses publicly available IPTV playlist data provided by **IPTV-Org**.
+
+IPTV-Org maintains a community-curated collection of public-domain and freely available IPTV streams.
+
+Source:
+https://github.com/iptv-org/iptv
+
+All playlist data is provided under the **Unlicense (Public Domain)**.
+
+## Owner
+
+ChunkGlow TVFoce® Is a Registered Trademark of ChunkGlow Inc. 
+

@@ -104,97 +104,6 @@ No walls. No gates. Just ideas flowing freely.
 If you build something cool with TVForce — that’s a win.
 
 ---
-##🎬 System Requirements
-
-💻 Minimum System Requirements
-
-Component
-
-Minimum Specs
-
-OS
-
-Windows 10 / 11, macOS 12+, Linux (Ubuntu 22.04+ / Fedora 38+)
-
-CPU
-
-Quad-core 2.5 GHz or faster
-
-RAM
-
-8 GB
-
-GPU
-
-DirectX 12 / Metal / Vulkan compatible GPU with 2 GB VRAM
-
-Storage
-
-2 GB free for installation + additional for cached streams
-
-Network
-
-5 Mbps stable internet (HD streaming)
-
-Audio Output
-
-HDMI or TOSLINK for surround; supports Dolby Atmos / DTS:X
-
-Video Output
-
-HDMI capable of 1080p / 4K HDR
-
-🌟 Recommended System Requirements – True Cinematic Experience
-
-Component
-
-Recommended Specs
-
-OS
-
-Windows Server 2026+, macOS 14+, Linux (latest LTS)
-
-CPU
-
-Hexa-core 3.5 GHz or faster
-
-RAM
-
-16 GB or more
-
-GPU
-
-Modern GPU with 4 GB+ VRAM, DirectX 12 / Metal / Vulkan
-
-Storage
-
-10 GB free (cached streams, playlist data, logs)
-
-Network
-
-25 Mbps or faster
-
-Audio Output
-
-AV Receiver or soundbar supporting: Dolby Atmos, DTS:X, LPCM, Bitstream passthrough; TOSLINK/HDMI recommended
-
-Video Output
-
-Neo QLED / OLED / HDR display supporting: HDR10, HDR10+, Dolby Vision; HDMI 2.0+
-
-Extras
-
-Multi-speaker 5.1 / 7.1 setup for full 3D audio
-
-🎧 Notes on Audio & Video
-
-Dolby Atmos / DTS:X: Requires HDMI or compatible AV receiver; TOSLINK is limited to compressed 5.1.
-
-Dolby Vision / HDR: Requires a compatible display and HDMI 2.0+; ensures accurate color and dynamic range.
-
-System Audio Routing: Recommended to set TVForce to output bitstream audio to AV Receiver for best 3D sound experience.
-
-Streaming Quality: 4K HDR streams require 25 Mbps+ internet for smooth playback.
 
 ## Credits
 
@@ -210,4 +119,58 @@ All playlist data is provided under the **Unlicense (Public Domain)**.
 ## Owner
 
 ChunkGlow TVFoce® Is a Registered Trademark of ChunkGlow Inc. 
+
+## Requirements
+
+1. Minimum System Requirements:
+
+OS: Windows 10 / 11, macOS 12+, Linux (Ubuntu 22.04+ / Fedora 38+)
+
+CPU: Quad-core 2.5 GHz or faster
+
+RAM: 8 GB
+
+GPU: DirectX 12 / Metal / Vulkan compatible GPU with 2 GB VRAM
+
+Storage: 2 GB free for installation + additional for cached streams
+
+Network: 5 Mbps stable internet (HD streaming)
+
+Audio Output: HDMI or TOSLINK for surround; supports Dolby Atmos / DTS:X
+
+Video Output: HDMI capable of 1080p / 4K HDR
+
+----
+
+2. Recommended System Requirements – True Cinematic Experience:
+
+OS: Windows Server 2026+, macOS 14+, Linux (latest LTS)
+
+CPU: Hexa-core 3.5 GHz or faster
+
+RAM: 16 GB or more
+
+GPU: Modern GPU with 4 GB+ VRAM, DirectX 12 / Metal / Vulkan
+
+Storage: 10 GB free (cached streams, playlist data, logs)
+
+Network: 25 Mbps or faster
+
+Audio Output: AV Receiver or soundbar supporting: Dolby Atmos, DTS:X, LPCM, Bitstream passthrough; TOSLINK/HDMI recommended
+
+Video Output: Neo QLED / OLED / HDR display supporting: HDR10, HDR10+, Dolby Vision; HDMI 2.0+
+
+Extras: Multi-speaker 5.1 / 7.1 setup for full 3D audio
+
+-----
+
+3. Notes on Audio & Video:
+
+Dolby Atmos / DTS:X: Requires HDMI or compatible AV receiver; TOSLINK is limited to compressed 5.1.
+
+Dolby Vision / HDR: Requires a compatible display and HDMI 2.0+; ensures accurate color and dynamic range.
+
+System Audio Routing: Recommended to set TVForce to output bitstream audio to AV Receiver for best 3D sound experience.
+
+Streaming Quality: 4K HDR streams require 25 Mbps+ internet for smooth playback.
 

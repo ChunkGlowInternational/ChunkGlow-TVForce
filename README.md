@@ -113,6 +113,7 @@ IPTV-Org maintains a community-curated collection of public-domain and freely av
 
 Source:
 https://github.com/iptv-org/iptv
+https://github.com/iptv-org/iptv/blob/master/PLAYLISTS.md
 
 All playlist data is provided under the **Unlicense (Public Domain)**.
 
